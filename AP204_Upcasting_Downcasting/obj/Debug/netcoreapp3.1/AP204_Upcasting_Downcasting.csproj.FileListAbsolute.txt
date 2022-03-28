@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\AP204_Upcasting_Downcasting\AP204_Upcasting_Downcasting\bin\Debug\netcoreapp3.1\AP204_Upcasting_Downcasting.exe
+C:\Users\Lenovo\source\repos\AP204_Upcasting_Downcasting\AP204_Upcasting_Downcasting\bin\Debug\netcoreapp3.1\AP204_Upcasting_Downcasting.deps.json
+C:\Users\Lenovo\source\repos\AP204_Upcasting_Downcasting\AP204_Upcasting_Downcasting\bin\Debug\netcoreapp3.1\AP204_Upcasting_Downcasting.runtimeconfig.json
+C:\Users\Lenovo\source\repos\AP204_Upcasting_Downcasting\AP204_Upcasting_Downcasting\bin\Debug\netcoreapp3.1\AP204_Upcasting_Downcasting.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\AP204_Upcasting_Downcasting\AP204_Upcasting_Downcasting\bin\Debug\netcoreapp3.1\AP204_Upcasting_Downcasting.dll
+C:\Users\Lenovo\source\repos\AP204_Upcasting_Downcasting\AP204_Upcasting_Downcasting\bin\Debug\netcoreapp3.1\AP204_Upcasting_Downcasting.pdb
+C:\Users\Lenovo\source\repos\AP204_Upcasting_Downcasting\AP204_Upcasting_Downcasting\obj\Debug\netcoreapp3.1\AP204_Upcasting_Downcasting.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AP204_Upcasting_Downcasting\AP204_Upcasting_Downcasting\obj\Debug\netcoreapp3.1\AP204_Upcasting_Downcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\AP204_Upcasting_Downcasting\AP204_Upcasting_Downcasting\obj\Debug\netcoreapp3.1\AP204_Upcasting_Downcasting.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Upcasting_Downcasting\AP204_Upcasting_Downcasting\obj\Debug\netcoreapp3.1\AP204_Upcasting_Downcasting.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\AP204_Upcasting_Downcasting\AP204_Upcasting_Downcasting\obj\Debug\netcoreapp3.1\AP204_Upcasting_Downcasting.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Upcasting_Downcasting\AP204_Upcasting_Downcasting\obj\Debug\netcoreapp3.1\AP204_Upcasting_Downcasting.dll
+C:\Users\Lenovo\source\repos\AP204_Upcasting_Downcasting\AP204_Upcasting_Downcasting\obj\Debug\netcoreapp3.1\AP204_Upcasting_Downcasting.pdb
+C:\Users\Lenovo\source\repos\AP204_Upcasting_Downcasting\AP204_Upcasting_Downcasting\obj\Debug\netcoreapp3.1\AP204_Upcasting_Downcasting.genruntimeconfig.cache
